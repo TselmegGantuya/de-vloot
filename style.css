@@ -59,15 +59,24 @@ li a {
 }
 p{
 	padding:0px 12px;
+	text-align: left;
+	
 	
 }
 h1{
 	padding-left:12px;
+	text-align: left;
 }
 h2{
 	padding-left:12px;
+		text-align: left;
 }
 
-img.pic{
+img.pic2{
 	padding: 10px;
+	float:right;
+}
+img.pic1{
+	padding: 10px;
+	float:left;
 }
